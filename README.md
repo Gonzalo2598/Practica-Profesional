@@ -1,0 +1,1 @@
+Aplicacion web de un Restaurante, gestiona las ventas, compras, apertura y cierre de caja, control de stock, informe graficos, gestion de usuarios segun su rol.
