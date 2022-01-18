@@ -1,0 +1,20 @@
+     Demo   
+     Demo   
+DEmostracion
+Tel:DEmostracion
+RFC: DEmostracion
+DEmostracion,DEmostracion.
+Fecha: 2/11/2021
+Hora: 11:09:45
+Ticket: -Error en MySQL: Query was empty
+---------------------
+Total  : $46.00
+Su Pago: $2.00
+Cambio : $ -44.00
+     Lo atendio:    
+  administrador
+---------------------
+Cant. Art.  Monto
+---------------------
+2.00|COCA COLA
+           46.00
